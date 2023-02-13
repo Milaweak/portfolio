@@ -1,0 +1,12 @@
+body {
+    text-align: center;  
+    color: #4dd2be;  
+ 
+    font-family: Kurale, serif;
+}
+
+.newproject {
+    height: 200px;
+    width: 150px;
+    background-color: #277582;
+}
